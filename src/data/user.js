@@ -3,6 +3,7 @@ const user = {
   city: "New York",
   bio: "I made this!",
   color: "firebrick",
+  image: "https://i.imgur.com/mV8PQxj.gif", // ← Add this line
   links: {
     github: "https://github.com/liza",
     linkedin: "https://www.linkedin.com/in/liza/",
@@ -10,3 +11,4 @@ const user = {
 };
 
 export default user;
+
